@@ -1,0 +1,110 @@
+SET UTF-8
+LANG ja
+
+# う行
+SFX	U	Y	7
+SFX	U	う	あ	う
+SFX	U	う	い	う
+SFX	U	う	え	う
+SFX	U	う	お	う
+SFX	U	う	わ	う
+SFX	U	う	っ	う
+SFX	U	う	ゑ	う
+
+# く行
+SFX	K	Y	6
+SFX	K	く	か	く
+SFX	K	く	き	く
+SFX	K	く	け	く
+SFX	K	く	こ	く
+SFX	K	く	い	く
+SFX	K	く	っ	く
+
+# ぐ行
+SFX	G	Y	5
+SFX	G	ぐ	が	ぐ
+SFX	G	ぐ	ぎ	ぐ
+SFX	G	ぐ	げ	ぐ
+SFX	G	ぐ	ご	ぐ
+SFX	G	ぐ	い	ぐ
+
+# す行
+SFX	S	Y	4
+SFX	S	す	さ	す
+SFX	S	す	し	す
+SFX	S	す	せ	す
+SFX	S	す	そ	す
+
+# ず行
+SFX	Z	Y	4
+SFX	Z	ず	ざ	ず
+SFX	Z	ず	じ	ず
+SFX	Z	ず	ぜ	ず
+SFX	Z	ず	ぞ	ず
+
+# つ行
+SFX	T	Y	5
+SFX	T	つ	た	つ
+SFX	T	つ	ち	つ
+SFX	T	つ	て	つ
+SFX	T	つ	と	つ
+SFX	T	つ	っ	つ
+
+# づ行
+SFX	D	Y	4
+SFX	D	づ	だ	づ
+SFX	D	づ	ぢ	づ
+SFX	D	づ	で	づ
+SFX	D	づ	ど	づ
+
+# ぬ行
+SFX	N	Y	5
+SFX	N	ぬ	な	ぬ
+SFX	N	ぬ	に	ぬ
+SFX	N	ぬ	ね	ぬ
+SFX	N	ぬ	の	ぬ
+SFX	N	ぬ	ん	ぬ
+
+# ふ行
+SFX	F	Y	4
+SFX	F	ふ	は	ふ
+SFX	F	ふ	ひ	ふ
+SFX	F	ふ	へ	ふ
+SFX	F	ふ	ほ	ふ
+
+# ぶ行
+SFX	B	Y	5
+SFX	B	ぶ	ば	ぶ
+SFX	B	ぶ	び	ぶ
+SFX	B	ぶ	べ	ぶ
+SFX	B	ぶ	ぼ	ぶ
+SFX	B	ぶ	ん	ぶ
+
+# む行
+SFX	M	Y	5
+SFX	M	む	ま	む
+SFX	M	む	み	む
+SFX	M	む	め	む
+SFX	M	む	も	む
+SFX	M	む	ん	む
+
+# る行
+SFX	R	Y	7
+SFX	R	る	ら	る
+SFX	R	る	り	る
+SFX	R	る	れ	る
+SFX	R	る	ろ	る
+SFX	R	る	っ	る
+SFX	R	る	い	る
+SFX	R	る	0	る
+
+# ゆ行
+SFX	Y	Y	4
+SFX	Y	ゆ	や	ゆ
+SFX	Y	ゆ	よ	ゆ
+SFX	Y	ゆ	い	ゆ
+SFX	Y	ゆ	え	ゆ
+
+# 形容詞
+SFX	X	Y	1
+SFX	X	い	0	い
