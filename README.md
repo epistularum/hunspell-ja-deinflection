@@ -6,6 +6,7 @@ The conversion method is based on the next point to the word stem. For instance 
 This makes for a yomichan like experience when coupled with the scan popup function. (Preferences > Scan Popup)
 
 ## Installation
+0. Install goldendict (please use xiaoyifang's webengine fork if you plan to use epwing dictionaries, it includes a fix. See https://github.com/goldendict/goldendict/issues/1551)
 1. Download both ja_JP.aff and ja_JP.dic.
 2. Place both files in a folder.
 3. Open goldendict, navigate to Edit > Dictionaries > Morphology.
